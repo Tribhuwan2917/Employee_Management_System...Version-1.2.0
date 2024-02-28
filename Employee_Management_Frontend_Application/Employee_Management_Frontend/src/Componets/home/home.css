@@ -1,0 +1,12 @@
+.home{
+    background-image: url('https://www.altantechnologies.com/drive/uploads/2019/02/iot-internet-of-things-cloud-1600x650c-1600x650.jpg');
+     position:'inherit';
+      margin-top:'80px';
+      width: '28rem';
+       text-align: 'center';
+       color: 'white';
+       height: '500px' ;
+       background-repeat: no-repeat;
+       /* background-color: black */
+       
+}
